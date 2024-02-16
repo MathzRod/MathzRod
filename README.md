@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 21-year-old man who is trying to find my place in the digital world. I learn new ways to improve and experiment with programming tools every day. Currently, I am familiarizing myself with QA and striving to improve my skills in this area.
+I am a 22-year-old man who is trying to find my place in the digital world. I learn new ways to improve and experiment with programming tools every day. Currently, I am familiarizing myself with QA and striving to improve my skills in this area.
 
 
 ## 🌐 Socials:

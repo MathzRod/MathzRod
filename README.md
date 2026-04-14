@@ -30,7 +30,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
    <em><b>🎓 Computer Engineering Student</b></em> <br/>
    <em><b>⚡ Focus on Full Stack (Front-End Specialist)</b></em><br/>
    <em><b>🤖 Experience with Automation (n8n, APIs, AI flows)</b></em><br/>

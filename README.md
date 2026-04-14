@@ -1,24 +1,114 @@
-# 💫 About Me:
-I am a 22-year-old man who is trying to find my place in the digital world. I learn new ways to improve and experiment with programming tools every day. Currently, I am familiarizing myself with QA and striving to improve my skills in this area.
+<img src = "githubanner.JPG"/>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusrodrcarm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mathzrodrsocial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portifolio-eight-green-81.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@itsthe_math) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-rodrigues-7b542b198) 
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MathzRod&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MathzRod&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MathzRod&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="center"> <em> About me </em></h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=MathzRod&icon=8&color=9)](https://visitcount.itsvg.in)
+<p>
+  Hello there! <em><b> I'm Matheus Rodrigues </b></em>, a Full Stack Developer focused on building modern, scalable and high-performance applications.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  My main strength is in <b>Front-End development</b>, but I also work with <b>Back-End, automation and system integration</b>, which allows me to deliver complete and efficient solutions.
+
+  I have experience with real-world projects involving <b>automation flows, APIs, testing and system optimization</b>, always focusing on performance, clean code and user experience.
+</p>
+
+<br/>
+
+<p align="center">
+   <em><b>🎓 Computer Engineering Student</b></em> <br/>
+   <em><b>⚡ Focus on Full Stack (Front-End Specialist)</b></em><br/>
+   <em><b>🤖 Experience with Automation (n8n, APIs, AI flows)</b></em><br/>
+   <em><b>🧪 Strong mindset in QA, testing and debugging</b></em><br/>
+</p>
+
+<br/>
+<br/>
+
+<h2 align="center"> <em> Technologies </em> </h2>
+
+<p align="center">
+
+  <!-- FRONT -->
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+  <!-- BACK -->
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
+
+  <!-- QA -->
+  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
+
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
+
+  <!-- TOOLS -->
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+
+</p>
+
+<br/>
+
+<h2 align="center"> <em> Statistics </em> </h2>
+
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathzRod&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+</div>
+
+<br/>
+
+<h2 align="center"> <em> Projects </em> </h2>
+
+<p align="center">
+
+🚀 <b>Portfolio Website</b>  
+Modern UI, responsive design, API integration and scalable architecture  
+
+🤖 <b>Automation System (n8n + WhatsApp)</b>  
+Intelligent flows, AI integration and real-time data processing  
+
+🌦️ <b>Weather App</b>  
+External API consumption and dynamic interface  
+
+</p>
+
+<br/>
+
+<h2 align="center"> <em> Philosophy </em> </h2>
+
+<p align="center">
+  <b>"Great software is not just about working code, it's about scalability, performance and real impact."</b>
+</p>
+
+<br/>
+
+<p align="center">
+⭐ If you like my work, consider giving a star!
+</p>

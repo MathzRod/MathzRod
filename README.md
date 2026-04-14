@@ -1,4 +1,4 @@
-<img src = "bannergithub.PNG"/>
+<img src = "bannergithub.png"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheusrodrcarm" target="_blank">
